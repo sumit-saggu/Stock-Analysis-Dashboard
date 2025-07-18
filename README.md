@@ -5,7 +5,7 @@ Built with [Streamlit](https://streamlit.io/), [Plotly](https://plotly.com/pytho
 
 ---
 
-## 🚀 Features
+##  Features
 
 - **Multi-page navigation** (Overview, Candlestick, Intraday, Statistics)
 - **Interactive candlestick charts** with volume
@@ -17,7 +17,7 @@ Built with [Streamlit](https://streamlit.io/), [Plotly](https://plotly.com/pytho
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 Stock Analysis Dashboard/
@@ -33,7 +33,7 @@ Stock Analysis Dashboard/
 
 ---
 
-## 🛠️ Installation
+##  Installation
 
 1. **Clone the repository:**
     ```bash
@@ -51,7 +51,7 @@ Stock Analysis Dashboard/
 
 ---
 
-## ▶️ Usage
+##  Usage
 
 Run the dashboard with:
 
@@ -64,7 +64,7 @@ streamlit run app.py
 
 ---
 
-## 📊 Example Screenshots
+##  Example Screenshots
 
 | Candlestick Chart | Intraday Chart | Statistics |
 |-------------------|----------------|------------|
@@ -72,7 +72,7 @@ streamlit run app.py
 
 ---
 
-## ✨ Customization
+##  Customization
 
 - **Theme:** Easily adjust colors and fonts in each page file.
 - **Pages:** Add new `.py` files to the `pages/` directory for more features.
@@ -80,12 +80,10 @@ streamlit run app.py
 
 ---
 
-## 🙏 Acknowledgements
+##  Acknowledgements
 
 - [Streamlit](https://streamlit.io/)
 - [Plotly](https://plotly.com/python/)
 - [yfinance](https://github.com/ranaroussi/yfinance)
 
 ---
-
-> **Made with ❤️ for data-driven investors and
