@@ -11,7 +11,7 @@ with st.container():
     with col1:
         st.image("logo.png", width=70,)
     with col2:
-        st.markdown("<h1 style='margin-bottom:0;'> </h1>", unsafe_allow_html=True)
+        st.markdown("<h1 style='margin-bottom:0;'>Stock Analysis Dashboard</h1>", unsafe_allow_html=True)
         st.markdown("""
         <span style='font-size:1.2em;color:gray;'>Analyze stocks with interactive charts and statistics.</span>
         """, unsafe_allow_html=True)
